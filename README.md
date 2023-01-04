@@ -9,7 +9,7 @@ Le Perceptron fait référence à un algorithme du Deep Learning utilisé dans l
 - NumPy
 - Matplotlib
 
-# Utilisation
+# Utilisation
 Pour utiliser l'algorithme de perceptron sans l'ajout de 'bias', exécutez le script perceptron_binaire.py : 'python3 perceptron_binaire.py'
 
 Pour utiliser l'algorithme de perceptron avec le 'bias', exécutez le script perceptron_avec_bias.py : 'python3 perceptron_avec_bias.py'
